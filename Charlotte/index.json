@@ -1,14 +1,27 @@
 {
 	"wallpapers": [{
 			"name": "1",
+			"by": "By Unknown",
 			"color": "616da6"
 		},
 		{
 			"name": "2",
+			"by": "By Unknown",
 			"color": "504b54"
 		},
 		{
 			"name": "3",
+			"by": "By Unknown",
+			"color": "dd6966"
+		},
+		{
+			"name": "4",
+			"by": "By Unknown",
+			"color": "dd6966"
+		},
+		{
+			"name": "5",
+			"by": "By Unknown",
 			"color": "dd6966"
 		}
 	]
