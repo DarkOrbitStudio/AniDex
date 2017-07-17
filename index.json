@@ -1,0 +1,43 @@
+{
+	"animes": [{
+			"name": "Angel Beats!",
+			"color": "616da6"
+		},
+		{
+			"name": "Charlotte",
+			"color": "504b54"
+		},
+		{
+			"name": "Future Diary",
+			"color": "dd6966"
+		},
+		{
+			"name": "Naruto",
+			"color": "aa9e99"
+		},
+		{
+			"name": "Naruto Shippuden",
+			"color": "a59582"
+		},
+		{
+			"name": "No Game No Life",
+			"color": "e1c9db"
+		},
+		{
+			"name": "Sword Art Online",
+			"color": "babdc1"
+		},
+		{
+			"name": "Sword Art Online 2",
+			"color": "3a3332"
+		},
+		{
+			"name": "Tokyo Ghoul",
+			"color": "2c2f32"
+		},
+		{
+			"name": "Tokyo Ravens",
+			"color": "dac4cd"
+		}
+	]
+}
