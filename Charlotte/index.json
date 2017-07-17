@@ -1,28 +1,28 @@
 {
 	"wallpapers": [{
 			"name": "1",
-			"by": "By Unknown",
-			"color": "616da6"
+			"by": "",
+			"color": "64000000"
 		},
 		{
 			"name": "2",
-			"by": "By Unknown",
-			"color": "504b54"
+			"by": "",
+			"color": "64000000"
 		},
 		{
 			"name": "3",
 			"by": "By Blue",
-			"color": "dd6966"
+			"color": "64000000"
 		},
 		{
 			"name": "4",
-			"by": "By Unknown",
-			"color": "dd6966"
+			"by": "",
+			"color": "64000000"
 		},
 		{
 			"name": "5",
 			"by": "By Hashima",
-			"color": "dd6966"
+			"color": "64000000"
 		}
 	]
 }
