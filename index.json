@@ -2,10 +2,10 @@
 	"information": [{
 		"latest version": "1.0.0",
 		"deprecated versions": [{
-			"1.0.0": true
+			"1.0.0": false
 		}],
 		"deprecation message": "AniDex *version* is deprecated, Please update your app.",
-		"maintenance": "false",
+		"maintenance": true,
 		"maintenance message": "Under maintenance, Try again after some time."
 	}],
 	"animes": [{
