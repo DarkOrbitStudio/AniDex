@@ -5,8 +5,8 @@
 			"1.0.0": true
 		}],
 		"deprecation message": "AniDex *version* is deprecated, Please update your app.",
-		"maintenance": "false"
-		"maintenance message": "Under maintenance, Try again after some time.",
+		"maintenance": "false",
+		"maintenance message": "Under maintenance, Try again after some time."
 	}],
 	"animes": [{
 			"name": "Angel Beats!",
