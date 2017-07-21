@@ -1,4 +1,11 @@
 {
+	"settings": [{
+		"latest version": "1.0.0",
+		"deprecated versions": [{
+			"1.0.0": false
+		}],
+		"maintenance": "false"
+	}],
 	"animes": [{
 			"name": "Angel Beats!",
 			"color": "616da6"
