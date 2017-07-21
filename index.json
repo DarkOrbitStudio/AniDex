@@ -5,7 +5,7 @@
 			"1.0.0": false
 		}],
 		"deprecation message": "AniDex *version* is deprecated, Please update your app.",
-		"maintenance": true,
+		"maintenance": false,
 		"maintenance message": "Under maintenance, Try again after some time."
 	}],
 	"animes": [{
