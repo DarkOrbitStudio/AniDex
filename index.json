@@ -2,7 +2,7 @@
 	"information": [{
 		"latest version": "1.0.0",
 		"deprecated versions": [{
-			"1.0.0": false
+			"1.0.0": true
 		}],
 		"maintenance": "false"
 	}],
