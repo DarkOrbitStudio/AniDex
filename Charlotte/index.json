@@ -1,59 +1,45 @@
 {
 	"wallpapers": [{
-			"name": "1",
-			"color": "64000000"
+			"path": "AniDex-Data-1/master/Charlotte/1.jpg"
 		},
 		{
-			"name": "2",
-			"color": "64000000"
+			"path": "AniDex-Data-1/master/Charlotte/2.jpg"
 		},
 		{
-			"name": "3",
-			"color": "64000000"
+			"path": "AniDex-Data-1/master/Charlotte/3.jpg"
 		},
 		{
-			"name": "4",
-			"color": "64000000"
+			"path": "AniDex-Data-1/master/Charlotte/4.jpg"
 		},
 		{
-			"name": "5",
-			"color": "64000000"
+			"path": "AniDex-Data-1/master/Charlotte/5.jpg"
 		},
 		{
-			"name": "6",
-			"color": "64000000"
+			"path": "AniDex-Data-1/master/Charlotte/6.jpg"
 		},
 		{
-			"name": "7",
-			"color": "64000000"
+			"path": "AniDex-Data-1/master/Charlotte/7.jpg"
 		},
 		{
-			"name": "8",
-			"color": "64000000"
+			"path": "AniDex-Data-1/master/Charlotte/8.jpg"
 		},
 		{
-			"name": "9",
-			"color": "64000000"
+			"path": "AniDex-Data-1/master/Charlotte/9.jpg"
 		},
 		{
-			"name": "10",
-			"color": "64000000"
+			"path": "AniDex-Data-1/master/Charlotte/10.jpg"
 		},
 		{
-			"name": "11",
-			"color": "64000000"
+			"path": "AniDex-Data-1/master/Charlotte/11.jpg"
 		},
 		{
-			"name": "12",
-			"color": "64000000"
+			"path": "AniDex-Data-1/master/Charlotte/12.jpg"
 		},
 		{
-			"name": "13",
-			"color": "64000000"
+			"path": "AniDex-Data-1/master/Charlotte/13.jpg"
 		},
 		{
-			"name": "14",
-			"color": "64000000"
+			"path": "AniDex-Data-1/master/Charlotte/14.jpg"
 		}
 	]
 }
