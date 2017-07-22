@@ -10,71 +10,71 @@
 	}],
 	"animes": [{
 			"name": "Angel Beats!",
-			"color": "616da6"
+			"folder": "Angel Beats"
 		},
 		{
 			"name": "Ao no Exorcist",
-			"color": "504b54"
+			"folder": "Ao no Exorcist",
 		},
 		{
 			"name": "Bleach",
-			"color": "504b54"
+			"folder": "Bleach",
 		},
 		{
 			"name": "Charlotte",
-			"color": "504b54"
+			"folder": "Charlotte",
 		},
 		{
 			"name": "Elfen Lied",
-			"color": "504b54"
+			"folder": "Elfen Lied",
 		},
 		{
 			"name": "Fairy Tail",
-			"color": "504b54"
+			"folder": "Fairy Tail",
 		},
 		{
 			"name": "Fullmetal Alchemist",
-			"color": "504b54"
+			"folder": "Fullmetal Alchemist",
 		},
 		{
 			"name": "Future Diary",
-			"color": "dd6966"
+			"folder": "Future Diary",
 		},
 		{
 			"name": "Naruto",
-			"color": "ea7f4b"
+			"folder": "Naruto",
 		},
 		{
 			"name": "Naruto Shippuden",
-			"color": "ea8453"
+			"folder": "Naruto Shippuden",
 		},
 		{
 			"name": "No Game No Life",
-			"color": "e1c9db"
+			"folder": "No Game No Life",
 		},
 		{
 			"name": "One Punch Man",
-			"color": "2c2f32"
+			"folder": "One Punch Man",
 		},
 		{
 			"name": "Sword Art Online",
-			"color": "0f479c"
+			"folder": "Sword Art Online",
 		},
 		{
 			"name": "Sword Art Online 2",
-			"color": "3a3332"
+			"folder": "Sword Art Online 2",
 		},
 		{
 			"name": "Tokyo Ghoul",
-			"color": "2c2f32"
+			"folder": "Tokyo Ghoul",
 		},
 		{
 			"name": "Toradora!",
-			"color": "2c2f32"
+			"folder": "Toradora",
 		},
 		{
 			"name": "Tokyo Ravens",
-			"color": "dac4cd"
+			"name": "Tokyo Ravens",
 		}
 	]
 }
