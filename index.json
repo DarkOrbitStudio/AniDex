@@ -10,146 +10,125 @@
 	}],
 	"animes": [{
 			"name": "Angel Beats!",
-			"name_en": "Angel Beats!",
-			"name_jp": "",
+			"name_mix": "Enjeru Bītsu!",
+			"name_jp": "エンジェルビーツ!",
 			"folder": "Angel Beats"
 		},
 		{
 			"name": "Ao no Exorcist",
 			"name_en": "Blue Exorcist",
-			"name_jp": "",
+			"name_jp": "エクソシスト",
 			"folder": "Ao no Exorcist"
 		},
 		{
 			"name": "Bleach",
-			"name_en": "Bleach",
-			"name_jp": "",
+			"name_jp": "ブリーチ",
 			"folder": "Bleach"
 		},
 		{
 			"name": "Charlotte",
-			"name_en": "Charlotte",
-			"name_jp": "",
+			"name_jp": "シャーロット",
 			"folder": "Charlotte"
 		},
 		{
 			"name": "Clannad",
-			"name_en": "Clannad",
-			"name_jp": "",
+			"name_jp": "クラナド",
 			"folder": "Clannad"
-		},
-		{
-			"name": "Code Geass",
-			"name_en": "Code Geass",
-			"name_jp": "",
-			"folder": "Code Geass"
-		},
-		{
-			"name": "Dragon Ball",
-			"name_en": "Dragon Ball",
-			"name_jp": "",
-			"folder": "Dragon Ball"
 		},		
 		{
 			"name": "Dragon Ball Z",
-			"name_en": "Dragon Ball Z",
-			"name_jp": "",
+			"name_mix": "Doragon Bōru Zetto",
+			"name_jp": "ドラゴンボールZ",
 			"folder": "Dragon Ball Z"
 		},		
 		{
 			"name": "Dragon Ball Super",
-			"name_en": "Dragon Ball Super",
-			"name_jp": "",
+			"name_mix": "Doragon Bōru Sūpā",
+			"name_jp": "ドラゴンボール超",
 			"folder": "Dragon Ball Super"
 		},
 		{
 			"name": "Elfen Lied",
-			"name_en": "Elfen Lied",
-			"name_jp": "",
+			"name_mix": "Erufen Rīto",
+			"name_jp": "エルフェンリート",
 			"folder": "Elfen Lied"
 		},
 		{
 			"name": "Fairy Tail",
+			"name_mix": "Fearī Teiru",
 			"name_en": "Fairy Tail",
-			"name_jp": "",
+			"name_jp": "フェアリーテイル",
 			"folder": "Fairy Tail"
 		},
 		{
 			"name": "Fullmetal Alchemist",
-			"name_en": "Fullmetal Alchemist",
-			"name_jp": "",
+			"name_mix": "Hagane no Renkinjutsushi",
+			"name_jp": "鋼の錬金術師",
 			"folder": "Fullmetal Alchemist"
 		},
 		{
 			"name": "Guilty Crown",
-			"name_en": "Guilty Crown",
-			"name_jp": "",
+			"name_mix": "Giruti Kuraun",
+			"name_jp": "ギルティクラウン",
 			"folder": "Guilty Crown"
 		},
 		{
 			"name": "Love Live!",
-			"name_en": "Love Live!",
-			"name_jp": "",
+			"name_mix": "Rabu Raibu!",
+			"name_jp": "ラブライブ!",
 			"folder": "Love Live"
 		},
 		{
 			"name": "Mirai Nikki",
 			"name_en": "Future Diary",
-			"name_jp": "",
+			"name_ch": "未来日記",
 			"folder": "Mirai Nikki"
 		},
 		{
 			"name": "Naruto",
-			"name_en": "Naruto",
-			"name_jp": "",
+			"name_jp": "ナルト",
 			"folder": "Naruto"
 		},
 		{
 			"name": "Naruto Shippuden",
-			"name_en": "Naruto Shippuden",
-			"name_jp": "",
+			"name_jp": "ナルト 疾風伝",
 			"folder": "Naruto Shippuden"
 		},
 		{
 			"name": "No Game No Life",
-			"name_en": "No Game No Life",
-			"name_jp": "",
+			"name_mix": "Nōgēmu Nōraifu",
+			"name_jp": "ノーゲーム・ノーライフ",
 			"folder": "No Game No Life"
 		},
 		{
 			"name": "One Punch Man",
-			"name_en": "One Punch Man",
-			"name_jp": "",
+			"name_mix": "Wanpanman",
+			"name_jp": "ワンパンマン",
 			"folder": "One Punch Man"
 		},
 		{
 			"name": "Sword Art Online",
-			"name_en": "Sword Art Online",
-			"name_jp": "",
+			"name_jp": "ソードアート・オンライン",
 			"folder": "Sword Art Online"
 		},
 		{
 			"name": "Sword Art Online 2",
-			"name_en": "Sword Art Online 2",
-			"name_jp": "",
+			"name_mix": "Sōdo Āto Onrain II",
+			"name_jp": "ソードアート・オンライン II",
 			"folder": "Sword Art Online 2"
 		},
 		{
 			"name": "Tokyo Ghoul",
-			"name_en": "Tokyo Ghoul",
-			"name_jp": "",
+			"name_mix": "Tōkyō Gūru",
+			"name_jp": "トーキョーグール",
 			"folder": "Tokyo Ghoul"
 		},
 		{
 			"name": "Toradora!",
-			"name_en": "Toradora!",
-			"name_jp": "",
 			"folder": "Toradora"
 		},
 		{
 			"name": "Tokyo Ravens",
-			"name_en": "Tokyo Ravens",
-			"name_jp": "",
 			"folder": "Tokyo Ravens"
 		}
 	]
