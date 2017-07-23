@@ -33,6 +33,18 @@
 			"folder": "Charlotte"
 		},
 		{
+			"name": "Clannad",
+			"name_en": "Clannad",
+			"name_jp": "",
+			"folder": "Clannad"
+		},
+		{
+			"name": "Code Geass",
+			"name_en": "Code Geass",
+			"name_jp": "",
+			"folder": "Code Geass"
+		},
+		{
 			"name": "Dragon Ball",
 			"name_en": "Dragon Ball",
 			"name_jp": "",
@@ -69,10 +81,22 @@
 			"folder": "Fullmetal Alchemist"
 		},
 		{
+			"name": "Guilty Crown",
+			"name_en": "Guilty Crown",
+			"name_jp": "",
+			"folder": "Guilty Crown"
+		},
+		{
+			"name": "Love Live!",
+			"name_en": "Love Live!",
+			"name_jp": "",
+			"folder": "Love Live"
+		},
+		{
 			"name": "Mirai Nikki",
 			"name_en": "Future Diary",
 			"name_jp": "",
-			"folder": "Future Diary"
+			"folder": "Mirai Nikki"
 		},
 		{
 			"name": "Naruto",
